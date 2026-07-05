@@ -1,0 +1,10 @@
+.DS_Store
+
+# Local/runtime files
+*.log
+*.tmp
+tmp/
+
+# Build artifacts
+dist/
+build/
